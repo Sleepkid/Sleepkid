@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend developing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web developing and software developing
-- 📫 How to reach me Gmail:ogooluwaabikoye@gmail.com ,Discord username :the_last_elder
+- 📫 How to reach me Gmail:ogooluwaabikoye@gmail.com ,Discord username :the_last_elder,linkedin : ogooluwa abikoye
 
 
 <!---
